@@ -41,11 +41,17 @@ Using the [newsapi](https://newsapi.org/) to pull the latest news articles for B
 Use descriptive statistics to answer the following questions:
 
 > Which coin had the highest mean positive score?
+> 
 > Bitcoin has the highest mean positive score 0.076250
+> 
 > Which coin had the highest negative score?
+> 
 > Bitcoin has the highest negative  score 0.184
+> 
 > Which coin had the highest positive score?
+> 
 > Bitcoin has the highest positive score 0.282000
+> 
 
 ---
 
