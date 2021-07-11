@@ -10,9 +10,17 @@ In this assignment, we apply natural language processing to understand the senti
 
 Complete the following tasks:
 
-1. [Sentiment Analysis](#1---Sentiment-Analysis)
-2. [Natural Language Processing](#2---Natural-Language-Processing)
-3. [Named Entity Recognition](#3---Named-Entity-Recognition)
+- [Tales from the Crypto](#tales-from-the-crypto)
+  - [Background](#background)
+  - [Files](#files)
+  - [Instructions](#instructions)
+    - [1 - Sentiment Analysis](#1---sentiment-analysis)
+    - [2 - Natural Language Processing](#2---natural-language-processing)
+      - [Tokenize](#tokenize)
+      - [N-grams](#n-grams)
+      - [Word Clouds](#word-clouds)
+    - [3 - Named Entity Recognition](#3---named-entity-recognition)
+  - [Resources](#resources)
 
 ---
 
@@ -33,10 +41,11 @@ Using the [newsapi](https://newsapi.org/) to pull the latest news articles for B
 Use descriptive statistics to answer the following questions:
 
 > Which coin had the highest mean positive score?
->
+> Bitcoin has the highest mean positive score 0.076250
 > Which coin had the highest negative score?
->
+> Bitcoin has the highest negative  score 0.184
 > Which coin had the highest positive score?
+> Bitcoin has the highest positive score 0.282000
 
 ---
 
